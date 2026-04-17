@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/1213011532.svg)](https://doi.org/10.5281/zenodo.19620875)
-# On the Essence of "Advanced Instinct" in LLMs
-# 论大型语言模型的“高级本能”本质
+The Scaling Laws of AI Models Cannot Bridge the Gap to Consciousness
+模型的规模法则无法跨越意识鸿沟
 
 > **Author / 作者:** Heer  
 > **Status / 状态:** Preprint (Academic Discussion) / 预印本（学术讨论）  
