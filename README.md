@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1213011532.svg)](https://doi.org/10.5281/zenodo.19620875)
 # On the Essence of "Advanced Instinct" in LLMs
 # 论大型语言模型的“高级本能”本质
 
